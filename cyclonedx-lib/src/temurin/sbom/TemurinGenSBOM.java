@@ -16,7 +16,6 @@ package temurin.sbom;
 
 import org.cyclonedx.BomGeneratorFactory;
 import org.cyclonedx.CycloneDxSchema;
-import org.cyclonedx.CycloneDxSchema.Version;
 import org.cyclonedx.model.Bom;
 import org.cyclonedx.model.Metadata;
 import org.cyclonedx.model.Property;
